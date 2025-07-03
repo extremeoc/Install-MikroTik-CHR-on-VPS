@@ -1,8 +1,8 @@
 #!/bin/bash -e
 
 echo
-echo "=== azadrah.org ==="
-echo "=== https://github.com/azadrahorg ==="
+echo "=== Ahba Jonam ==="
+echo "=== https://github.com/extremeoc ==="
 echo "=== MikroTik 7 Installer ==="
 echo
 sleep 3
